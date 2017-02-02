@@ -1,2 +1,2 @@
 # Egraph
-It's test threejs for my project
+It's test chart-library for my project
